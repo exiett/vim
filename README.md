@@ -2,8 +2,8 @@
 
 ## A few useful commands if you're new to VIM.
 
-Shift + ZZ - Exit vim.
-dd - Delete line.
+$ Shift + ZZ - Exit vim.
+$ dd - Delete line.
 yy - Copy a line (yank).
 p - Paste.
 w - Walk forward word by word.
