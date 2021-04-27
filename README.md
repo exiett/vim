@@ -2,8 +2,9 @@
 
 ## A few useful commands if you're new to VIM.
 
+Exit Vim:
 ```bash
-Shift + ZZ - Exit vim.
+Shift + ZZ
 ```
 ```bash
 dd - Delete line.
