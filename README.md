@@ -15,5 +15,6 @@ Ctrl + R - Redo.
 A - Insert on the end of the current selected line.
 I - Insert on the beginning of the current selected line.
 o - Insert on a new empty line below the current selected line.
-O - Insert on a new empty line above the current selected line. 
+O - Insert on a new empty line above the current selected line.
+ 
 ```
